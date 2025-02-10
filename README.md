@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yanis.bayle5@gmail.com**
 
-- 📄 Know about my experiences [placeholder_linkedin](www.linkedin.com/in/yanis-bayle)
+- 📄 Know about my experiences [My Linkedin](www.linkedin.com/in/yanis-bayle)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
