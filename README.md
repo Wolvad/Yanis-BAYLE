@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/placeholder" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/wolvad" target="blank">
+  <a href="https://leetcode.com/wolvad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
