@@ -16,11 +16,17 @@
   <a href="mailto:yanis.bayle5@gmail.com" target="_blank">Contact Me</a>
 </p>
 
+
 ---
 
 ### About Me
-
+<p align="center">
+  <img src="https://github.com/Wolvad/Yanis-BAYLE/blob/main/logo.png?raw=true" alt="My Image" width="300"/>
+</p>
 I'm a passionate student exploring the realms of programming and development. I enjoy taking on challenges that help me grow my skillset and working on projects that make a real impact. Feel free to connect with me or explore my work!
+
+
+
 
 ---
 
