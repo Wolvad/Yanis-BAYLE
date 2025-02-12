@@ -1,22 +1,46 @@
 <h1 align="center">Hi 👋, I'm Yanis BAYLE</h1>
 <h3 align="center">I'm a Student at IPI School (BAC+2 level)</h3>
 
-- 👨‍💻 All of my projects are available at [placeholder_portfolio](placeholder_portfolio)
-
-- 📫 How to reach me **yanis.bayle5@gmail.com**
-
-- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/yanis-bayle)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/placeholder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <!-- Example badges (customize the usernames/links as needed) -->
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-yanisbayle-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <a href="https://www.leetcode.com/wolvad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wolvad" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yanis-bayle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yanis--bayle-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://placeholder_portfolio" target="_blank">Explore my Projects</a> • 
+  <a href="mailto:yanis.bayle5@gmail.com" target="_blank">Contact Me</a>
+</p>
+
+---
+
+### About Me
+
+I'm a passionate student exploring the realms of programming and development. I enjoy taking on challenges that help me grow my skillset and working on projects that make a real impact.  
+<!-- Feel free to add more about your current learning, hobbies, or goals! -->
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yanis-bayle" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://www.leetcode.com/wolvad" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### Languages and Tools
+
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
   </a>
@@ -72,3 +96,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <!-- Replace "yourusername" with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
