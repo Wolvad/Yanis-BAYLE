@@ -84,6 +84,9 @@ Technologies for server-side and API development:
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
@@ -127,11 +130,14 @@ Libraries and frameworks that accelerate development:
 #### Software
 Essential software tools for design, testing, and collaboration:
 <p align="center">
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40" />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/postman-logo-F43375A72C-seeklogo.com.png" alt="Postman" width="40" height="40" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
