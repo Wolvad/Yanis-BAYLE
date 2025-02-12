@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yanis BAYLE</h1>
 <h3 align="center">I'm a Student at IPI School (BAC+2 level)</h3>
-
 <p align="center">
   <!-- Quick links using badges -->
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Wolvad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-yanisbayle-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/yanis-bayle" target="_blank">
@@ -11,26 +10,15 @@
   </a>
 </p>
 
-
-
-
 ---
-
 ### About Me
 <p align="center">
   <img src="https://github.com/Wolvad/Yanis-BAYLE/blob/main/logo.png?raw=true" alt="My Image" width="300"/>
 </p>
 I'm a passionate student exploring the realms of programming and development. I enjoy taking on challenges that help me grow my skillset and working on projects that make a real impact. Feel free to connect with me or explore my work!
 
-
-
-
-
-
 ---
-
 ### Skills Overview
-
 I have organized my technical skills into several categories for clarity. Hover over each icon for more details about the technology.
 
 #### Programming Skills
@@ -145,10 +133,23 @@ Additional tools and utilities:
 </p>
 
 ---
-
 ### GitHub Stats
 
 <p align="center">
   <!-- Replace "yourusername" with your actual GitHub username to display your stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wolvad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+### GitHub Contributions
+
+<p align="center">
+  <!-- GitHub Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/Wolvad" alt="GitHub Contribution Calendar" />
+</p>
+
+If you'd like to see my detailed contribution history, check out my [GitHub Profile](https://github.com/Wolvad).
+
+---
+### Let's Collaborate!
+If you're interested in working together or discussing opportunities, feel free to reach out! I’m always open to new ideas and collaborations.
