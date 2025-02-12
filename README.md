@@ -11,10 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://placeholder_portfolio" target="_blank">Explore my Projects</a> • 
-  <a href="mailto:yanis.bayle5@gmail.com" target="_blank">Contact Me</a>
-</p>
+
 
 
 ---
