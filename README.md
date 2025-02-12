@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student at IPI School (BAC+2 level)</h3>
 
 <p align="center">
-  <!-- Badges for quick links -->
+  <!-- Quick links using badges -->
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-yanisbayle-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -37,9 +37,12 @@ I'm a passionate student exploring the realms of programming and development. I 
 
 ---
 
-### Skills
+### Skills Overview
+
+I have organized my technical skills into several categories for clarity. Hover over each icon for more details about the technology.
 
 #### Programming Skills
+These are the core programming languages I work with:
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -53,6 +56,7 @@ I'm a passionate student exploring the realms of programming and development. I 
 </p>
 
 #### Frontend Development
+Technologies I use to build user interfaces:
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -69,6 +73,7 @@ I'm a passionate student exploring the realms of programming and development. I 
 </p>
 
 #### Backend Development
+Technologies for server-side and API development:
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
@@ -85,6 +90,7 @@ I'm a passionate student exploring the realms of programming and development. I 
 </p>
 
 #### Database
+Databases and data management systems I have experience with:
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
@@ -98,14 +104,16 @@ I'm a passionate student exploring the realms of programming and development. I 
 </p>
 
 #### DevOps
+Tools and practices that help in continuous integration and deployment:
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-  <!-- Additional DevOps tools can be added here -->
+  <!-- Add more DevOps tools as you use them -->
 </p>
 
 #### Frameworks
+Libraries and frameworks that accelerate development:
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
@@ -117,6 +125,7 @@ I'm a passionate student exploring the realms of programming and development. I 
 </p>
 
 #### Software
+Essential software tools for design, testing, and collaboration:
 <p align="center">
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40" />
@@ -126,7 +135,8 @@ I'm a passionate student exploring the realms of programming and development. I 
   </a>
 </p>
 
-#### Other
+#### Other Tools
+Additional tools and utilities:
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="40" height="40" />
@@ -141,6 +151,6 @@ I'm a passionate student exploring the realms of programming and development. I 
 ### GitHub Stats
 
 <p align="center">
-  <!-- Replace "yourusername" with your actual GitHub username -->
+  <!-- Replace "yourusername" with your actual GitHub username to display your stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
